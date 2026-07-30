@@ -78,7 +78,7 @@
 name: Muhammad Rumman
 role: ML Explorer & Agentic AI Explorer
 location: Pakistan 🇵🇰
-currently_learning: [Machine Learning, AI, Agentic Systems, LLMs]
+currently_learning: [Machine Learning, AI, Web Development]
 looking_to_collaborate: [ML Projects, Open Source]
 motto: "Code with Purpose. Build with Passion."
 </code>
