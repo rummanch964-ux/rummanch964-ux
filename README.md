@@ -80,7 +80,7 @@ role: ML Explorer & Agentic AI Explorer
 location: Pakistan 🇵🇰
 currently_learning: [Machine Learning, AI, Agentic Systems, LLMs]
 looking_to_collaborate: [ML Projects, Open Source]
-motto: "Turning Ideas Into Code, One Commit at a Time"
+motto: "Code with Purpose. Build with Passion."
 </code>
 </pre>
 
