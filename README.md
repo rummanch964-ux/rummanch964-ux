@@ -202,11 +202,11 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 <div align="center">
 
-| 🧠 AI/ML Projects | 🤖 Agentic Systems |
-|:---:|:---:|
-| Deep Learning Models | Autonomous AI Agents |
-| NLP & Text Analysis | Multi-Agent Workflows |
-| Data Analysis with Pandas/NumPy | LLM-Powered Tools |
+| 🧠 AI/ML Projects |
+|:---:|
+| Deep Learning Models |
+| NLP & Text Analysis |
+| Data Analysis with Pandas/NumPy |
 
 </div>
 
@@ -268,4 +268,3 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 **Made with 💙 by Muhammad Rumman**
 
 </div>
-
