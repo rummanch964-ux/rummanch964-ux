@@ -109,7 +109,9 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -130,8 +132,14 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -157,19 +165,21 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 ## 💡 My Skills Set
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### Programming Languages
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 </div>
 
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### AI / ML & Data
 
@@ -202,11 +212,11 @@ motto: "Turning Ideas Into Code, One Commit at a Time"
 
 <div align="center">
 
-| 🧠 AI/ML Projects |
-|:---:|
-| Deep Learning Models |
-| NLP & Text Analysis |
-| Data Analysis with Pandas/NumPy |
+| 🧠 AI/ML Projects | 🌐 Web Development |
+|:---:|:---:|
+| Deep Learning Models | Full-Stack Web Apps |
+| NLP & Text Analysis | REST APIs & Microservices |
+| Data Analysis with Pandas/NumPy | Responsive UI/UX |
 
 </div>
 
